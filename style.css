@@ -1,0 +1,65 @@
+body{
+    text-align: center
+}
+
+marquee{
+    background-color:forestgreen;
+    color: white;
+    font-size: 15px;
+}
+iframe{
+    margin-top: 5px;
+}
+h1{
+    font-family:fantasy;
+    color: blue
+}
+#TMSP{
+    background-color: skyblue;
+}
+section{
+    margin-top: 50px;
+}
+a{
+    color:burlywood;
+}
+.menu{
+    position: fixed;
+}
+#image1{
+    width: 50px;
+    height: 50px;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+#mam{
+    margin-left: 200px;
+}
+h3{
+    margin-right:500px;
+    font-size: 18px;
+    font-family:monospace;
+}
+#contact{
+    background-color: blueviolet;
+}
+h4{
+    margin-right: 500px;
+    font-size: 15px;
+}
+.ma hover{
+    color:aqua;
+   
+}
+.ma{
+     margin-right: 330px;
+}
+#insta{
+    margin-right: 500px;
+}
+#call{
+margin-right: 450px;
+}
